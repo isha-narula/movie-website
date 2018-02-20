@@ -18,9 +18,9 @@
  
  This project consists for the following files:
  
- * entertainment_center.py - main Python script to run
+ * entertainment.py - main Python script to run
  * media.py - contains the class Movie that stores movie details
-  fresh_tomatoes.py - creates the HTML file for the website (Udacity supplied)
+   fresh_tomatoes.py - creates the HTML file for the website (Udacity supplied)
  
  ## How to Run Project
  
@@ -33,9 +33,8 @@
  Navigate to the project directory and type in the following command:
 
 ```bash
- python entertainment_center.py
+ python entertainment.py-main python script to run
  ```
- 
  Your default browser should launch a new tab displaying the movie trailer website.
  
  ## Extra Credit Description
