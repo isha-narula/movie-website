@@ -16,7 +16,7 @@ Inception = media.Movie("Inception",
 
 Three_idiots = media.Movie("Three idiots",
                            "Story of three college friends",
-                           "threeidiots.jpg",
+                           "3idiots.jpg",
                            "https://www.youtube.com/watch?v=xvszmNXdM4w")
 
 
