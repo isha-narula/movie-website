@@ -1,7 +1,7 @@
-#Stores details of various movies
+# Stores details of various movies
 import media
 import fresh_tomatoes
-#Creating various insatnces of various movies
+# Creating various insatnces of various movies
 padmavaat = media.Movie("Padmavaat",
                         "Story of brave queen.",
                         "pic1.jpg",
